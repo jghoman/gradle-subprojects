@@ -1,4 +1,5 @@
-GradleSubProjects
-=================
+Example Gradle file for various things I need it to do.
+=======================================================
 
-Let's see if Gradle can do what we need it to do
+This Gradle setup has the following features:
+* Subproject built from the artifacts of the main project.
