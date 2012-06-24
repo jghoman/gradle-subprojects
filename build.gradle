@@ -1,0 +1,14 @@
+allprojects {
+  apply plugin: 'java'
+  
+  dependencies {
+    testCompile 'junit:junit:4.8.2'
+  }
+}
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+
