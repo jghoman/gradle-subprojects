@@ -1,1 +1,1 @@
-include 'someconnectors'
+include 'someconnectors', 'evenmoreconnectors'
